@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #7d01ff;
 }
 .header img {
   width: 75px;
@@ -35,7 +35,7 @@ a {
   width: 100%;
   text-align: center;
   color: white;
-  background-color: grey ;
+  background-color: #7e01ff ;
   bottom: 0;
   left: 0;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
